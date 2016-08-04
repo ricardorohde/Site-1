@@ -1,4 +1,4 @@
-# Site com recursos dinamicos (criação de páginas, buscador, paginação...)
+# Site com recursos dinâmicos (criação de páginas, buscador, paginação...)
 
 Site com caracteristicas de blogs de noticia, com direito a recursos de criação de página e controle de usuários.
 
