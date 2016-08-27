@@ -203,18 +203,7 @@
 	<div class="container-fluid">
 		<div class="row-fluid">
 			<section>
-				<div style="display:block; padding:5px;">
-					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- responsivo -->
-					<ins class="adsbygoogle"
-						 style="display:block"
-						 data-ad-client="ca-pub-6852613369528290"
-						 data-ad-slot="6631809163"
-						 data-ad-format="auto"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</div>
+				<!-- ##################################### -->
 			</section>
 		</div>
 	</div>

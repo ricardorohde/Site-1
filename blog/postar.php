@@ -280,25 +280,16 @@
 														<li class="active">Blog</li> 
 													</ol>
 
-											<!-- comercial -->
-											<div class="container">
-												<div class="row">
-													<section  >
-														<div>
-																<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-																<!-- responsivo -->
-																<ins class="adsbygoogle"
-																	 style="display:block"
-																	 data-ad-client="ca-pub-6852613369528290"
-																	 data-ad-slot="6631809163"
-																	 data-ad-format="auto"></ins>
-																<script>
-																(adsbygoogle = window.adsbygoogle || []).push({});
-																</script>
-														</div>
-													</section>
-												</div>
-											</div>
+<!-- comercial -->
+
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<section>
+				<!-- ##################################### -->
+			</section>
+		</div>
+	</div>
+
 
 													<!-- section principal -->
 													<div class="container-fluid">
